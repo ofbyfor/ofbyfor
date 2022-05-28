@@ -4,6 +4,14 @@ Documentation for the ofbyfor organization will be here.
 
 If you create your own account your info goes in the file account/repo (same name as acccount)/README.md.
 
+## Getting Started
+* At [of-by-for](https://github.com/of-by-for) are some starter templates.
+* Create the same repository and files with your account.
+* Then follow the instructions.
+  - Create a boolean statement.
+  - Respond to other statements.
+    + Don't forget to respond to your own statement.    
+
 ## Markdown Information
 
 Below are some links on Markdown. A simple markup language for formating a document such as this README.md file. Note the .md at the end of the filename. Aditional markdown files (.md) can be added to the repository and then linked to each other as needed. Making a kind of local wiki.
