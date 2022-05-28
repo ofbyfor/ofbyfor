@@ -1,6 +1,7 @@
 # OfByFor
 
-Documentation for the ofbyfor organization will be here. 
+Documentation for the ofbyfor organization will be here.
+
 If you create your own account your info goes in the file account/repo (same name as acccount)/README.md.
 
 ## Markdown Information
@@ -12,7 +13,11 @@ Below are some links on Markdown. A simple markup language for formating a docum
 - [Github Markdown Wiki](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ### Guides
-As the project grows, discussion and examples of best practices regarding the use of markdown is encouraged. Caveat markdown is encorperated into the GitHub service. This is why the [https://github.com/ofbyfor/ofbyfor/README.md](https://github.com/ofbyfor/ofbyfor/README.md) is rendered as it is on the [https://github.com/ofbyfor](https://github.com/ofbyfor) overview page. This is out of the box behavior for any account.
+As the project grows, discussion and examples of best practices regarding the use of markdown is encouraged. 
+
+Caveat markdown is encorperated into the GitHub service. This is why the [https://github.com/ofbyfor/ofbyfor/README.md](https://github.com/ofbyfor/ofbyfor/README.md) file is rendered as it is on the [https://github.com/ofbyfor](https://github.com/ofbyfor) overview page. To see this compare the URL of this page with https://github.com/ofbyfor/ofbyfor/README.md. They should be the same. Then take a look at [https://github.com/ofbyfor/ofbyfor/README.md](https://github.com/ofbyfor/ofbyfor/README.md). This is the code of the README.md that is being rendered. 
+
+This is out of the box behavior for any account.
 
 #### Example article
 - Documenting the best practices for markdown, so new user can quickly get up to speed.
