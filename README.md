@@ -16,7 +16,8 @@ To improve the documentation on:
 - Setting GitHub repositories
 - General Getting Started 
 
-Seeking a small group of individual to work through the process in person. Considering the Sheridan County Public Library for a place to meet. If interested contact me at
+### Notice
+Seeking a small group of individual to work through the process using the website, GitHub and email. One of the objectives would be to, eventually, eliminate the need for email in the process. Yet initially the familiarity of most with email has real value in getting up and running sooner than later.
 
 <!--
 **ofbyfor/ofbyfor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
