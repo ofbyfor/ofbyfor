@@ -10,6 +10,14 @@ Below are some links on Markdown. A simple markup language for formating a docum
 
 As the project grows, discussion and examples of best practices regarding the use of markdown is encouraged. Caveat markdown is encorperated into the GitHub service. This is why the README.md is rendered as it is on the https://github.com/ofbyfor overview page. This is out of the box behavior for any account.
 
+## Oportunity
+To improve the documentation on:
+- Creating a GitHub account
+- Setting GitHub repositories
+- General Getting Started 
+
+Seeking a small group of individual to work through the process in person. Considering the Sheridan County Public Library for a place to meet. If interested contact me at
+
 <!--
 **ofbyfor/ofbyfor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
