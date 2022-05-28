@@ -12,7 +12,7 @@ Below are some links on Markdown. A simple markup language for formating a docum
 - [Github Markdown Wiki](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ### Guides
-As the project grows, discussion and examples of best practices regarding the use of markdown is encouraged. Caveat markdown is encorperated into the GitHub service. This is why the README.md is rendered as it is on the https://github.com/ofbyfor overview page. This is out of the box behavior for any account.
+As the project grows, discussion and examples of best practices regarding the use of markdown is encouraged. Caveat markdown is encorperated into the GitHub service. This is why the [https://github.com/ofbyfor/ofbyfor/README.md](https://github.com/ofbyfor/ofbyfor/README.md) is rendered as it is on the [https://github.com/ofbyfor](https://github.com/ofbyfor) overview page. This is out of the box behavior for any account.
 
 #### Example article
 - Documenting the best practices for markdown, so new user can quickly get up to speed.
