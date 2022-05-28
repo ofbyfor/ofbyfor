@@ -15,7 +15,15 @@ Below are some links on Markdown. A simple markup language for formating a docum
 ### Guides
 As the project grows, discussion and examples of best practices regarding the use of markdown is encouraged. 
 
-Caveat markdown is encorperated into the GitHub service. This is why the [https://github.com/ofbyfor/ofbyfor/README.md](https://github.com/ofbyfor/ofbyfor/README.md) file is rendered as it is on the [https://github.com/ofbyfor](https://github.com/ofbyfor) overview page. To see this compare the URL of this page with https://github.com/ofbyfor. They should be the same. Then take a look at [https://github.com/ofbyfor/ofbyfor/README.md](https://github.com/ofbyfor/ofbyfor/README.md). This is the code of the README.md that is being rendered. 
+Caveat markdown is encorperated into the GitHub service. This is why the 
+[https://github.com/ofbyfor/ofbyfor/blob/main/README.md?plain=1](https://github.com/ofbyfor/ofbyfor/blob/main/README.md?plain=1) 
+file is rendered as it is on the 
+[https://github.com/ofbyfor](https://github.com/ofbyfor) 
+overview page. To see this compare the URL of this page with 
+https://github.com/ofbyfor. They should be the same. 
+Then take a look at 
+[https://github.com/ofbyfor/ofbyfor/blob/main/README.md?plain=1](https://github.com/ofbyfor/ofbyfor/blob/main/README.md?plain=1). 
+This is the code of the README.md that is being rendered. 
 
 This is out of the box behavior for any account.
 
