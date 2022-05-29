@@ -5,12 +5,7 @@ Documentation for the ofbyfor organization will be here.
 If you create your own account your info goes in the file account/repo (same name as acccount)/README.md.
 
 ## Getting Started
-* At [of-by-for](https://github.com/of-by-for) are some starter templates.
-* Create the same repository and files with your account.
-* Then follow the instructions.
-  - Create a boolean statement.
-  - Respond to other statements.
-    + Don't forget to respond to your own statement.    
+   
 
 ## Markdown Information
 
